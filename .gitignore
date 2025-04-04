@@ -1,0 +1,21 @@
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Intellij ###
+.idea
+
+### Datasets ###
+data/
+input/
+output/
+
+### Jupyter Notebooks ###
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.cache/
