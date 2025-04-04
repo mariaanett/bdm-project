@@ -19,3 +19,4 @@ output/
 .local/
 .npm/
 .cache/
+.ivy2/
