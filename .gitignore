@@ -20,3 +20,5 @@ output/
 .npm/
 .cache/
 .ivy2/
+.config/
+
