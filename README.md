@@ -26,5 +26,5 @@ The results of the queries can be seen in the Jupyter Notebook Graphframes.ipynb
 
 ## Project 4
 ### Requirements
-Folder for the data called "data" has to be created in the root of the repository. The project requires datasets 2009.csv and 2010.csv.
-The project can be run using the Docker compose file provided in project_4 subfolder.
+Folder for the data called "data" has to be created in the root of the repository. The project requires datasets 2009.csv and 2010.csv. <br>
+All the necessary files for the project can be found in subfolder project_4 including the Docker compose file for running the project.
