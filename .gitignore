@@ -22,3 +22,6 @@ output/
 .ivy2/
 .config/
 
+### Model and preprocessing model data ###
+!project_4/model/best_model/data
+!project_4/model/preprocessing_pipeline/stages/**/data
