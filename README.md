@@ -23,3 +23,8 @@ The results of the queries can be seen in the Jupyter Notebook Graphframes.ipynb
 3. Graph closeness centrality (natively on Spark using).
 4. PageRank algorithm implementation natively on Spark using Graphframes.
 5. Group of the most connected airports (largest connected component in the graph).
+
+## Project 4
+### Requirements
+Folder for the data called "data" has to be created in the root of the repository. The project requires datasets 2009.csv and 2010.csv.
+The project can be run using the Docker compose file provided in project_4 subfolder.
